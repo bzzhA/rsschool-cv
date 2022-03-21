@@ -9,7 +9,7 @@
 ***
 ### About me
 ***
-Hello everyone, my name is Artem, I'm a beginner front-end developer. What brought me to this training course was the desire to create something new! Previously, I mastered HTML and CSS at a basic level. Now it's time to achieve more!
+Hello everyone, my name is Artem, I'm a beginner front-end developer. What brought me to this training course was the desire to create something new! Previously, I mastered _HTML_ and _CSS_ at a basic level. Now it's time to achieve more!
 
 ### Skills:
 
@@ -49,4 +49,4 @@ Only watching learn video and read book.
 
 ### Langueges: 
 * Russian - Native
-* English - A2 (Now learning in Skyeng school)
+* English - A2 (___Now learning in Skyeng school___)
