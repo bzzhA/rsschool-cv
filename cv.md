@@ -37,6 +37,7 @@ function getSymb() {
 }
 ```
 * [Generator password screenshot](https://pastenow.ru/GG40V "Generator")
+* [Generator password GitHub project](https://github.com/bzzhA/generator "Generator")
 
 ***
 
