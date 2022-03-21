@@ -36,6 +36,7 @@ function getSymb() {
   }
 }
 ```
+* [Generator password screenshot](https://pastenow.ru/GG40V "Generator")
 
 ***
 
